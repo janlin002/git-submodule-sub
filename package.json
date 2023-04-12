@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "npm package test",
   "main": "index.js",
-  "keywords": ["git", "submodule"],
+  "keywords": [
+    "git",
+    "submodule"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
